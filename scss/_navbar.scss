@@ -1,0 +1,24 @@
+@import 'colors';
+%align-center {
+    display: flex;
+    align-items: center;
+}
+.navbar{
+    background-color:rgb(132, 237, 209);
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem;
+    z-index: 10;
+    position: relative;
+    font-family: 'Roboto', sans-serif;
+
+    .navbar__logo {
+        color: $dark;
+        cursor: pointer;
+        text-decoration: none;
+        font-size: 2rem;
+        margin-left: 24px;
+
+    }
+    }

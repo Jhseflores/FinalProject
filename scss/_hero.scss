@@ -1,0 +1,35 @@
+.hero {
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    text-align: center;
+
+    .herocontainer {
+        font-family: 'Freehand', cursive;
+        text-align: center;
+        height: 10vh;
+        width:fit-content
+    }
+    .hero1{
+        text-color: #fff;
+        font-family: 'Freehand', cursive;
+        height: 10vh;
+        width: 100%;
+        position: relative;
+        background: transparent;
+    }
+    .hero2{
+        text-align: center;
+        text-color: aliceblue;
+        height: 100vh;
+        width: 100%;
+        position: relative;
+        font-size: larger;
+        font-weight: 200;
+    }
+    .hero3{
+        height: 100vh;
+        width: 100%;
+        position: relative;
+
+    }
+}
