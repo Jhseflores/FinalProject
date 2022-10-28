@@ -10,9 +10,25 @@ h1{
     clip-path: circle();
     height: 30rem;
 }
+.img3{
+    clip-path: circle();
+    height: 25rem;
+}
+.img4{
+    height: 25rem;
+    position:relative;
+    clip-path:circle()
+}
 social-media{
     height: 100%;
     width: 100%;
     position: relative;
     margin-right: 30rem;
+}
+.thumbnail{
+    height: 10%;
+    width: 50%;
+    position:relative;
+    margin-inline: center;
+    grid-row:auto;
 }

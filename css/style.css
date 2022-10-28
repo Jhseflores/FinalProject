@@ -10942,7 +10942,7 @@ textarea.form-control-lg {
   font-weight: 200;
 }
 .hero .hero3 {
-  height: 100vh;
+  height: 10vh;
   width: 100%;
   position: relative;
 }
@@ -10970,11 +10970,30 @@ h1, .h1 {
   height: 30rem;
 }
 
+.img3 {
+  clip-path: circle();
+  height: 25rem;
+}
+
+.img4 {
+  height: 25rem;
+  position: relative;
+  clip-path: circle();
+}
+
 social-media {
   height: 100%;
   width: 100%;
   position: relative;
   margin-right: 30rem;
+}
+
+.thumbnail {
+  height: 10%;
+  width: 50%;
+  position: relative;
+  margin-inline: center;
+  grid-row: auto;
 }
 
 /*# sourceMappingURL=style.css.map */
