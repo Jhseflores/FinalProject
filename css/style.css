@@ -10970,4 +10970,11 @@ h1, .h1 {
   height: 30rem;
 }
 
+social-media {
+  height: 100%;
+  width: 100%;
+  position: relative;
+  margin-right: 30rem;
+}
+
 /*# sourceMappingURL=style.css.map */
