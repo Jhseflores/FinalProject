@@ -12,12 +12,14 @@ h1{
 }
 .img3{
     clip-path: circle();
-    height: 25rem;
+    height: 100%;
+    width: 50%;
 }
 .img4{
-    height: 25rem;
-    position:relative;
-    clip-path:circle()
+    height: 70%;
+    width: 50%;
+    position: relative;
+    clip-path: circle();
 }
 social-media{
     height: 100%;
@@ -31,4 +33,7 @@ social-media{
     position:relative;
     margin-inline: center;
     grid-row:auto;
+}
+.projects{
+    height: 100%;
 }
